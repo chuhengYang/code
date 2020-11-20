@@ -1,2 +1,4 @@
-# code
-This a code for C program
+### code
+This is public code for everyone!
+
+Mainly written in C language.
